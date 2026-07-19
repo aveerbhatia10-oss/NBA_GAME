@@ -1,0 +1,30 @@
+playoff_single_game_rebounds = {
+    1: {"player": "Bismack Biyombo", "rebounds": 26, "date": "2016-05-21", "team": "TOR"},
+    2: {"player": "Dwight Howard", "rebounds": 26, "date": "2015-04-24", "team": "HOU"},
+    3: {"player": "Hakeem Olajuwon", "rebounds": 26, "date": "1988-04-30", "team": "HOU"},
+
+    4: {"player": "Jonas Valančiūnas", "rebounds": 25, "date": "2022-04-17", "team": "NOP"},
+    5: {"player": "Tim Duncan", "rebounds": 25, "date": "2002-05-14", "team": "SAS"},
+    6: {"player": "Hakeem Olajuwon", "rebounds": 25, "date": "1987-05-14", "team": "HOU"},
+
+    7: {"player": "Victor Wembanyama", "rebounds": 24, "date": "2026-05-18", "team": "SAS"},
+    8: {"player": "Rudy Gobert", "rebounds": 24, "date": "2025-04-30", "team": "MIN"},
+    9: {"player": "Dwight Howard", "rebounds": 24, "date": "2009-04-28", "team": "ORL"},
+    10: {"player": "Ben Wallace", "rebounds": 24, "date": "2004-05-09", "team": "DET"},
+    11: {"player": "Tim Duncan", "rebounds": 24, "date": "2003-05-23", "team": "SAS"},
+    12: {"player": "Ben Wallace", "rebounds": 24, "date": "2003-04-27", "team": "DET"},
+    13: {"player": "Shaquille O'Neal", "rebounds": 24, "date": "2000-06-09", "team": "LAL"},
+    14: {"player": "Charles Oakley", "rebounds": 24, "date": "1994-05-01", "team": "NYK"},
+    15: {"player": "Charles Barkley", "rebounds": 24, "date": "1993-06-05", "team": "PHO"},
+    16: {"player": "Ralph Sampson", "rebounds": 24, "date": "1985-04-19", "team": "HOU"},
+
+    17: {"player": "Anthony Davis", "rebounds": 23, "date": "2024-04-27", "team": "LAL"},
+    18: {"player": "Anthony Davis", "rebounds": 23, "date": "2023-05-02", "team": "LAL"},
+    19: {"player": "Kevon Looney", "rebounds": 23, "date": "2023-05-02", "team": "GSW"},
+    20: {"player": "Giannis Antetokounmpo", "rebounds": 23, "date": "2019-05-19", "team": "MIL"},
+    21: {"player": "Tim Duncan", "rebounds": 23, "date": "2008-05-13", "team": "SAS"},
+    22: {"player": "Shaquille O'Neal", "rebounds": 23, "date": "2003-04-27", "team": "LAL"},
+    23: {"player": "Tim Duncan", "rebounds": 23, "date": "2003-04-25", "team": "SAS"},
+    24: {"player": "Charles Barkley", "rebounds": 23, "date": "1999-05-13", "team": "HOU"},
+    25: {"player": "Charles Barkley", "rebounds": 23, "date": "1995-05-20", "team": "PHO"},
+}

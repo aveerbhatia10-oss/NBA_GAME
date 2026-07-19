@@ -1,0 +1,32 @@
+nba_single_season_rebounds = {
+    1: {"player": "Wilt Chamberlain", "rebounds": 2149, "season": "1960-61", "games": 79},
+    2: {"player": "Wilt Chamberlain", "rebounds": 2052, "season": "1961-62", "games": 80},
+    3: {"player": "Wilt Chamberlain", "rebounds": 1957, "season": "1966-67", "games": 81},
+    4: {"player": "Wilt Chamberlain", "rebounds": 1952, "season": "1967-68", "games": 82},
+    5: {"player": "Wilt Chamberlain", "rebounds": 1946, "season": "1962-63", "games": 80},
+    6: {"player": "Wilt Chamberlain", "rebounds": 1943, "season": "1965-66", "games": 79},
+    7: {"player": "Wilt Chamberlain", "rebounds": 1941, "season": "1959-60", "games": 72},
+    8: {"player": "Bill Russell", "rebounds": 1930, "season": "1963-64", "games": 78},
+    9: {"player": "Bill Russell", "rebounds": 1878, "season": "1964-65", "games": 78},
+    10: {"player": "Bill Russell", "rebounds": 1868, "season": "1960-61", "games": 78},
+
+    11: {"player": "Bill Russell", "rebounds": 1843, "season": "1962-63"},
+    12: {"player": "Bill Russell", "rebounds": 1790, "season": "1961-62"},
+    13: {"player": "Wilt Chamberlain", "rebounds": 1787, "season": "1963-64"},
+    14: {"player": "Bill Russell", "rebounds": 1779, "season": "1965-66"},
+    15: {"player": "Bill Russell", "rebounds": 1778, "season": "1959-60"},
+    16: {"player": "Wilt Chamberlain", "rebounds": 1712, "season": "1968-69"},
+    17: {"player": "Bill Russell", "rebounds": 1700, "season": "1966-67"},
+    18: {"player": "Wilt Chamberlain", "rebounds": 1673, "season": "1964-65"},
+    19: {"player": "Jerry Lucas", "rebounds": 1668, "season": "1965-66"},
+    20: {"player": "Bill Russell", "rebounds": 1612, "season": "1958-59"},
+    21: {"player": "Wilt Chamberlain", "rebounds": 1572, "season": "1971-72"},
+    22: {"player": "Bill Russell", "rebounds": 1564, "season": "1957-58"},
+    23: {"player": "Jerry Lucas", "rebounds": 1560, "season": "1967-68"},
+    24: {"player": "Jerry Lucas", "rebounds": 1547, "season": "1966-67"},
+    25: {"player": "Bob Pettit", "rebounds": 1540, "season": "1960-61"},
+
+    26: {"player": "Wilt Chamberlain", "rebounds": 1526, "season": "1972-73"},
+    27: {"player": "Dennis Rodman", "rebounds": 1530, "season": "1991-92"},
+    28: {"player": "Walt Bellamy", "rebounds": 1500, "season": "1961-62"}
+}

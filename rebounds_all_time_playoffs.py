@@ -1,0 +1,28 @@
+nba_playoff_career_rebounds = {
+    1: {"player": "Bill Russell", "rebounds": 4104},
+    2: {"player": "Wilt Chamberlain", "rebounds": 3913},
+    3: {"player": "Tim Duncan", "rebounds": 2859},
+    4: {"player": "LeBron James", "rebounds": 2695},
+    5: {"player": "Shaquille O'Neal", "rebounds": 2508},
+    6: {"player": "Kareem Abdul-Jabbar", "rebounds": 2481},
+    7: {"player": "Karl Malone", "rebounds": 2062},
+    8: {"player": "Wes Unseld", "rebounds": 1777},
+    9: {"player": "Robert Parish", "rebounds": 1765},
+    10: {"player": "Elgin Baylor", "rebounds": 1724},
+
+    11: {"player": "Larry Bird", "rebounds": 1683},
+    12: {"player": "Dennis Rodman", "rebounds": 1676},
+    13: {"player": "Hakeem Olajuwon", "rebounds": 1621},
+    14: {"player": "Scottie Pippen", "rebounds": 1583},
+    15: {"player": "Charles Barkley", "rebounds": 1582},
+    16: {"player": "Al Horford", "rebounds": 1561},
+    17: {"player": "Kevin Garnett", "rebounds": 1534},
+    18: {"player": "Paul Silas", "rebounds": 1527},
+    19: {"player": "Dwight Howard", "rebounds": 1473},
+    20: {"player": "Magic Johnson", "rebounds": 1465},
+    21: {"player": "Horace Grant", "rebounds": 1457},
+    22: {"player": "Draymond Green", "rebounds": 1457},
+    23: {"player": "Ben Wallace", "rebounds": 1454},
+    24: {"player": "Dirk Nowitzki", "rebounds": 1446},
+    25: {"player": "Charles Oakley", "rebounds": 1445}
+}
