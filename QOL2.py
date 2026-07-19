@@ -1,0 +1,68 @@
+"""
+Random trade / free agency / front-office rumor blurbs for the NBA game.
+"""
+
+RUMORS = [
+    "🔄 Star player may request a trade",
+    "👀 Team interested in veteran guard",
+    "💰 Player expected to test free agency",
+    "🔥 Rival teams monitoring situation",
+    "📞 Front office fielding trade calls",
+    "🤝 Buyout market heating up for the player",
+    "🚨 Insider reports growing tension with coaching staff",
+    "🧳 Player linked to a return to former team",
+    "🏗️ Front office exploring a rebuild around the roster",
+    "🤐 Team staying quiet amid swirling speculation",
+    "📉 Role diminishing, sparking trade chatter",
+    "🎯 Contender eyeing player as a rental for a playoff push",
+    "🕵️ Agent reportedly gauging trade destinations",
+    "📝 Extension talks reportedly stalling",
+    "🧊 Player put on the trade block",
+    "🔃 Three-team trade framework being discussed",
+    "🏥 Team hesitant to trade due to injury history",
+    "📈 Trade value rising after a strong stretch",
+    "📉 Trade value dipping after a rough stretch",
+    "🗞️ Beat reporter hints at a deal brewing behind the scenes",
+    "🚪 Player reportedly requests a meeting with management",
+    "🤔 Front office weighing a win-now move at the deadline",
+    "💼 Team shopping veteran for draft capital",
+    "🔒 Team maintains player is not available",
+    "🌍 Overseas return rumored as a fallback option",
+    "🧮 Cap-space math has teams circling in the offseason",
+]
+"""
+Random rookie storyline blurbs for the NBA game.
+"""
+
+ROOKIE_EVENTS = [
+    "🌟 Rookie surprises everyone",
+    "📈 Rookie earns starting role",
+    "🏀 Rookie makes All-Rookie team",
+    "😓 Rookie struggles adjusting",
+    "🧠 Rookie shows advanced court vision",
+    "💪 Rookie battles through a physical learning curve",
+    "🔥 Rookie drops a career-high in a breakout game",
+    "🧱 Rookie hits the proverbial rookie wall",
+    "🎯 Rookie wins Rookie of the Month",
+    "🪑 Rookie loses minutes to a veteran",
+    "🚀 Rookie's stock rises after a strong stretch",
+    "🤕 Rookie's development slowed by a minor injury",
+    "🗣️ Veterans praise rookie's work ethic",
+    "📊 Rookie's shooting numbers steadily improve",
+    "🏆 Rookie shines on the biggest stage of the season so far",
+    "🎓 Rookie credited for a mature, veteran-like approach",
+    "🌀 Rookie looks lost defensively against a savvy vet",
+    "🔑 Rookie handed the keys late in a close game",
+    "📉 Rookie's minutes trimmed after a slow stretch",
+    "🥇 Rookie named Rookie of the Year favorite",
+    "🩹 Rookie fights through fatigue during a long road trip",
+    "🎬 Rookie delivers a signature highlight-reel moment",
+    "🧩 Rookie starting to find his fit within the offense",
+    "📚 Rookie spends extra hours in the film room",
+    "🗓️ Rookie hits the midseason slump many first-years face",
+    "🔊 Rookie feeds off the energy of a nationally televised game",
+    "🤝 Veteran takes rookie under their wing",
+    "⚡ Rookie's athleticism turns heads in a statement performance",
+    "🛠️ Rookie retooling shot mechanics after a cold stretch",
+    "🏅 Rookie selected for the Rising Stars event",
+]

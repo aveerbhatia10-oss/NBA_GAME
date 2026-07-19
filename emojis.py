@@ -1,0 +1,62 @@
+"""
+Basketball-related emojis, keyed by descriptive name.
+"""
+
+EMOJIS = {
+    "basketball": "\U0001F3C0",
+    "person_bouncing_ball": "\U000026F9\U0000FE0F",
+    "man_bouncing_ball": "\U000026F9\U0000FE0F\U0000200D\U00002642\U0000FE0F",
+    "woman_bouncing_ball": "\U000026F9\U0000FE0F\U0000200D\U00002640\U0000FE0F",
+    "trophy": "\U0001F3C6",
+    "sports_medal": "\U0001F3C5",
+    "1st_place_medal": "\U0001F947",
+    "2nd_place_medal": "\U0001F948",
+    "3rd_place_medal": "\U0001F949",
+    "stopwatch": "\U000023F1\U0000FE0F",
+    "alarm_clock": "\U000023F0",
+    "fire": "\U0001F525",
+    "flexed_biceps": "\U0001F4AA",
+    "clapping_hands": "\U0001F44F",
+    "raised_hands": "\U0001F64C",
+    "star": "\U00002B50",
+    "glowing_star": "\U0001F31F",
+    "sparkles": "\U00002728",
+    "chart_increasing": "\U0001F4C8",
+    "dizzy": "\U0001F4AB",
+    "collision": "\U0001F4A5",
+    "direct_hit": "\U0001F3AF",
+    "t_shirt": "\U0001F455",
+    "shorts": "\U0001FA73",
+    "athletic_shoe": "\U0001F45F",
+    "stadium": "\U0001F3DF\U0000FE0F",
+    "triangular_flag": "\U0001F6A9",
+    "loudspeaker": "\U0001F4E2",
+    "megaphone": "\U0001F4E3",
+    "party_popper": "\U0001F389",
+    "confetti_ball": "\U0001F38A",
+    "crown": "\U0001F451",
+    "hundred_points": "\U0001F4AF",
+    "check_mark_button": "\U00002705",
+    "cross_mark": "\U0000274C",
+    "thumbs_up": "\U0001F44D",
+    "eyes": "\U0001F440",
+    "brain": "\U0001F9E0",
+    "calendar": "\U0001F4C5",
+    "television": "\U0001F4FA",
+    "camera_with_flash": "\U0001F4F8",
+    "money_bag": "\U0001F4B0",
+    "admission_ticket": "\U0001F3AB",
+    "world_map": "\U0001F5FA\U0000FE0F",
+    "handshake": "\U0001F91D",
+    "man_running": "\U0001F3C3\U0000200D\U00002642\U0000FE0F",
+    "woman_running": "\U0001F3C3\U0000200D\U00002640\U0000FE0F",
+    "sweat_droplets": "\U0001F4A6",
+    "raising_hand": "\U0001F64B",
+    "victory_hand": "\U0000270C\U0000FE0F",
+    "clock_face": "\U0001F550",
+}
+
+if __name__ == "__main__":
+    print(f"Total emojis: {len(EMOJIS)}")
+    for name, emoji in EMOJIS.items():
+        print(f"{name}: {emoji}")
